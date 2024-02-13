@@ -58,7 +58,7 @@ Criando o Primeiro Repositório no GitHub Para Compartilhar meu Progresso</h2>
 ---
 
 ###  Descrição do Projeto :scroll:
-A medida em que eu for concluinda as outra etapas do Bootcamp Geração Tech Unimed-BH - Ciência de Dados irei criando os demais conteúdos e atualizando este README. Criarei também, os demais READMES que forem necessários.
+À medida que concluir as etapas subsequentes do Bootcamp Geração Tech Unimed-BH - Ciência de Dados, vou desenvolver e atualizar os conteúdos deste README. Além disso, criarei os demais READMEs necessários.
 
 ---
 
