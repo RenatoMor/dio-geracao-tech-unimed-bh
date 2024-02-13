@@ -64,7 +64,7 @@ A medida em que eu for concluinda as outra etapas do Bootcamp Geração Tech Uni
 
 
 ### Autor :footprints:
-Este projeto foi desenvolvido por Renato Moreira como parte da Formação Java Developer da DIO.
+Este projeto foi desenvolvido por Renato Moreira como parte do Bootcamp Geração Tech Unimed-BH - Ciência de Dados.
 <br>
 Copyright © 2024 / RenatoMor
 
