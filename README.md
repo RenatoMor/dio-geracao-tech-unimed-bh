@@ -1,14 +1,7 @@
-<div style="border: 0px solid #00f; padding: 10px; display: flex; justify-content: center;">
-    <div style="box-shadow: 3px 3px 5px #888; display: flex; align-items: center; text-align: center; font-family: 'Verdana', sans-serif;">        
-        <h1 style="margin: 0; text-shadow: 2px 2px 3px #888;">Geração Tech Unimed-BH - Ciência de Dados</h1>
-    </div>
-</div>
+<h1>Geração Tech Unimed-BH <br> Ciência de Dados</h1>
 
-<br>
-<div style="border: 0px solid #00f; padding: 10px; display: flex; align-items: center; justify-content: center; text-align: center; font-family: 'Lato', sans-serif;">
-    <h2 style="margin: 0; text-shadow: 2px 2px 3px #888; font-family: 'Helvetica', sans-serif; text-decoration: none;">Desafio: 
-Criando o Primeiro Repositório no GitHub Para Compartilhar meu Progresso</h2>
-</div>
+<h2>Criando o Primeiro Repositório no GitHub Para Compartilhar meu Progresso</h2>
+
 
 
 <div style="border: 0px solid #00f; padding: 10px; display: flex; align-items: center; justify-content: center; text-align: center;">
